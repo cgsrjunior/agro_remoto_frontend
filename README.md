@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![@coreui angular](https://img.shields.io/badge/@coreui%20-angular-lightgrey.svg?style=flat-square)](https://github.com/coreui/angular)
 [![npm package][npm-coreui-angular-badge]][npm-coreui-angular] 
 [![NPM downloads][npm-coreui-angular-download]][npm-coreui-angular]  
@@ -188,3 +189,7 @@ There is only one limitation you can't re-distribute the CoreUI as stock. You ca
 CoreUI is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by donating on [PayPal](https://www.paypal.me/holeczek), buying [CoreUI Pro Version](https://coreui.io/pro) or buying one of our [premium admin templates](https://genesisui.com/?support=1).
 
 As of now I am exploring the possibility of working on CoreUI fulltime - if you are a business that is building core products using CoreUI, I am also open to conversations regarding custom sponsorship / consulting arrangements. Get in touch on [Twitter](https://twitter.com/lukaszholeczek).
+=======
+# agro_remoto_frontend
+A frontend content from my project of Software Engineering on INF-UFRGS
+>>>>>>> 6175d8a6a675b26577f3a55c848a4acede31da53
